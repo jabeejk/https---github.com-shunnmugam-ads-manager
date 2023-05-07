@@ -1,0 +1,26 @@
+.length{
+    margin-top: 1%;
+}
+
+.balance{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.balance Button{ 
+    margin-top: 30px;
+}
+
+.paymentMethod{
+    margin-top: 10%;
+    margin-bottom: 5%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+

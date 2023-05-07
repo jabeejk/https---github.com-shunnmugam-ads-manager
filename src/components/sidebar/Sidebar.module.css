@@ -1,0 +1,11 @@
+.logo {
+    height: 32px;
+    margin: 16px;
+    background: gray;
+  }
+
+  .side{
+    background: grey;
+    z-index: 1000;
+    border-right: 2px solid #f0f0f0;
+  }

@@ -1,0 +1,16 @@
+  /* nav header */
+  .Navheader{
+    background: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+
+  .btn{
+    background-color: black;
+    color:white;
+  }
+  .btn:hover{
+    background-color: white;
+    color:black;
+  }

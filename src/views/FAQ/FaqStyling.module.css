@@ -1,0 +1,20 @@
+.container{
+    /* height: 100vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10% 0 15%;
+}
+
+.container h2 {
+    /* margin: 10px; */
+    /* padding: 10px; */
+    font-size: 5rem;
+  }
+  .container p {
+    /* margin: 10px; */
+    padding: 10px;
+    font-size: 1rem;
+    justify-content: center;
+  }

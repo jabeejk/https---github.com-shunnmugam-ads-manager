@@ -1,0 +1,51 @@
+.carousel_container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:80vh
+}
+
+.subCarousel{
+    height:300px;
+    width:300px;
+    background-color:orange;
+    border-radius:50%;
+}
+
+
+.contentStyle{
+    color: #fff;
+    line-height: 300px;
+    text-align: center;
+}
+
+.content_below_carousel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: x-large;
+}
+
+.right_part{
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+.form_content{
+    
+    padding: 20px;
+}
+
+.form_content h1{
+    font-size: 8vh;
+    margin-bottom: auto;
+}
+
+
+.form-content p{
+    font-size: 2.5vh;
+    color: gray;
+}
